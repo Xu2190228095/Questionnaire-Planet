@@ -1,8 +1,5 @@
 # 问卷星球
 
-[![vue2.0](https://img.shields.io/badge/vue-2.0-brightgreen)](https://cn.vuejs.org/) [![vue-cli4.5.13](https://img.shields.io/badge/vue--cli-4.5.13-blue)](https://cli.vuejs.org/)
-
-后端：[https://github.com/BUAASE-Slime/Questionnaire-Planet-Django](https://github.com/BUAASE-Slime/Questionnaire-Planet-Django)
 
 ## 项目介绍
 
